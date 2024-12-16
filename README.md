@@ -1,6 +1,10 @@
 ## Welcome to my profile!: 👋
 
 👋 Hi! I´m Danny, I´m a Civil Engineer and master in Structural Engineer from the Industrial University of Santander - Colombia
+
+![image](https://github.com/user-attachments/assets/4931aa02-4287-41be-a307-d81112006a9d)
+
+
 <!--
 **ramdanny10/ramdanny10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
