@@ -2,7 +2,7 @@
 
 👋 Hi! I´m Danny, I´m a Civil Engineer and master in Structural Engineer from the Industrial University of Santander - Colombia
 
-<img src="https://github.com/user-attachments/assets/4931aa02-4287-41be-a307-d81112006a9d" width="300"/>
+<img src="https://github.com/user-attachments/assets/4931aa02-4287-41be-a307-d81112006a9d" width="200"/>
 
 
 <!--
@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![image](https://github.com/user-attachments/assets/4931aa02-4287-41be-a307-d81112006a9d)
+
